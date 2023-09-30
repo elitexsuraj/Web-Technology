@@ -1,0 +1,2 @@
+Stage 2 – CSS:
+We live in such a society where everybody wants to look pretty, and beautiful, and to achieve this everyone does makeup. Similarly, CSS does for HTML. CSS creates beauty on HTML pages. With the help of CSS, you can make your web page colorful and smooth. You can even create animations using CSS. You can add transitions, change the scrolling events of your pages, mouse-click events, and many more. But as HTML changes to HTML5, CSS also has been changed to CSS3. 
